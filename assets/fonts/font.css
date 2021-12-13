@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Open Sans Regular";
+  src: url("OpenSans-Regular.ttf");
+}
+@font-face {
+  font-family: "Open Sans Light";
+  src: url("OpenSans-Light.ttf");
+}
+@font-face {
+  font-family: "Open Sans Medium";
+  src: url("OpenSans-Medium.ttf");
+}
+@font-face {
+  font-family: "Open Sans Bold";
+  src: url("OpenSans-Bold.ttf");
+}
+@font-face {
+  font-family: "SourceCodePro";
+  src: url("SourceCodePro-Medium.ttf");
+}
